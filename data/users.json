@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "userid": "sunnyj2324@gmail.com",
+      "password": "1234",
+      "firstname": "suna",
+      "lastname": "Jung"
+    },
+    {
+      "userid": "user@somewhere.com",
+      "password": "ps1000",
+      "firstname": "",
+      "lastname": ""
+    },
+    {
+      "userid": "sunnyj2324@naver.com",
+      "password": "2222",
+      "firstname": "",
+      "lastname": ""
+    },
+    {
+      "userid": "sunny@daum.net",
+      "password": "3333",
+      "firstname": "",
+      "lastname": ""
+    }
+  ]
+}
